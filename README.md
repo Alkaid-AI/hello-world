@@ -1,2 +1,4 @@
 # hello-world
-a new try
+
+This is my road of AI.
+Now it begins!
